@@ -1,6 +1,5 @@
- كيفية تنصيب بوت الزعيم التحديث الاخير 2016
- 
-  TH3 BOSS BOT 
+  devil_rap65 2016 كيفية تنصيب بوت  
+  devil_rap65 
 
 ```sh
 
@@ -23,11 +22,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 🔸➖🔹➖🔸➖🔹➖
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3_BOSS.git
+git clone https://github.com/devilrap978/devil_rap65.git
 🔸➖🔹➖🔸➖🔹➖
 ورهأ خلي    
 
-cd TH3_BOSS
+cd devil_rap65
 🔸➖🔹➖🔸➖🔹➖
 ورهأَ خلي 
 🔸➖🔹➖🔸➖🔹➖
@@ -45,9 +44,7 @@ chmod +x launch.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندنك استفسار او اي شي تدلل 
-@TH3BOSS
-واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@devil_rap65
 
 طبعا هنا بالتنصيب الجديد اكو طريقتين لتشغيل البوت
 1_ وهي تشغيل البوت نفس الطريقة القديمة مجرد تطي رن للبوت
@@ -55,12 +52,11 @@ chmod +x launch.sh
 
 1_killall -w bash
 2_killall tmux
-3_cd TH3_BOSS
-4_bash TH3BOSS.sh -t
+3_cd devil_rap65
+4_bash devil_rap65.sh -t
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
+Dev :   [@devil_rap]
+
  Enter a phone number & confirmation code.
 Congratulations, you better bot
 ```
@@ -82,7 +78,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3_BOSS.git && cd TH3_BOSS && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/devilrap978/devil_rap65.git && cd devil_rap65 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 🔸➖🔹➖🔸➖🔹➖
@@ -101,16 +97,14 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
   sudo_users = {
     226861861,
-    0,
-    YourID
+    
   }
 ```
  مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
+Dev :   [@devil_rap]
+Dev_BOT :  [@devilrapBOT]
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
 You have an idea to develop Alsoors or bot prefer 🏿️
 
-(https://telegram.me/TH3BOSS)
+(https://telegram.me/devil_rap)
